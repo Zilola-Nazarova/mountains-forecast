@@ -156,7 +156,7 @@ Your app is ready to be deployed!
 
 - GitHub: [@Zilola-Nazarova](https://github.com/Zilola-Nazarova)
 - Twitter: [@NazarovaZi](https://twitter.com/NazarovaZi)
-- LinkedIn: [in/NazarovaZi](https://www.linkedin.com/in/NazarovaZi)
+- LinkedIn: [in/NazarovaZi](https://www.linkedin.com/in/zilola-nazarova)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
