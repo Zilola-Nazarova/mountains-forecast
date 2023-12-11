@@ -1,6 +1,6 @@
 {
-  "homepage": "https://zilola-nazarova.github.io/mountains-uz",
-  "name": "mountains-uz",
+  "homepage": "https://zilola-nazarova.github.io/mountains-forecast",
+  "name": "mountains-forecast",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
