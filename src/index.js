@@ -25,25 +25,27 @@ const router = createBrowserRouter([
         element: <Home />,
       },
       {
-        path: 'details/:id',
+        path: '/details/:id',
         element: <Details />,
       },
       {
-        path: 'about',
+        path: '/about',
         element: <About />,
       },
       {
-        path: 'models/:id',
+        path: '/models/:id',
         element: <Models />,
       },
     ],
   },
-]);
+], {
+  basename: '/mountains-forecast',
+});
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
-      <RouterProvider router={router} basename="/mountains-forecast" />
+      <RouterProvider router={router} />
     </Provider>
   </React.StrictMode>,
 );
